@@ -1,3 +1,4 @@
 ### z-buffer
 
-![here](https://user-images.githubusercontent.com/84399880/165744011-d9b3a0d6-7528-4caa-9a88-8b259b785976.jpg)
+
+![here](https://user-images.githubusercontent.com/84399880/165745071-218a9c52-0977-4e68-af6c-9618c0adc7f5.jpg)
